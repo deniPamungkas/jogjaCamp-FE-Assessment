@@ -4,6 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Cara menjalankan project
 
+### `npm init`
+
+untuk membuat package.json
+selanjutnya
+
 ### `npm install`
 
 untuk menginstal npm
