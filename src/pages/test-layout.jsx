@@ -5,14 +5,6 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
 const TestLayout = () => {
-  const CustomArrow = ({ className, style, onClick }) => (
-    <div
-      className={`${className} custom-arrow`}
-      style={{ ...style }}
-      onClick={onClick}
-    />
-  );
-
   const settings = {
     fade: true,
     infinite: true,
